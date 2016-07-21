@@ -7,6 +7,7 @@ database/
 public/
 resources/lang/
 resources/assets/
+resources/views/
 tests/
 app/Events
 app/Exceptions
