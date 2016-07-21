@@ -1,5 +1,19 @@
+.idea/
 vendor/
 node_modules/
+bootstrap/
+config/
+database/
+public/
+resources/lang/
+resources/assets/
+tests/
+app/Events
+app/Exceptions
+app/Jobs
+app/Listeners
+app/Policies
+app/Providers
 
 # Laravel 4 specific
 bootstrap/compiled.php
@@ -11,6 +25,13 @@ storage/
 .env.*.php
 .env.php
 .env
+_ide_helper.php
+artisan
+server.php
+phpunit.xml
+package.json
+gulpfile.js
+composer.lock
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
